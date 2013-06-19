@@ -1,0 +1,7 @@
+====> /logs/staging.log <====
+
+# Logfile created on 2012-07-25 18:09:07 +0000 by logger.rb/25413
+Installing dependencies. Node version 0.6.17
+
+Error 306: Error retrieving file '/logs/stdout.log'
+

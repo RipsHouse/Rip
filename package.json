@@ -1,0 +1,23 @@
+{
+  "author": "yayramen <me@yayramen.com> (http://yayramen.com/) && Inumedia <inumedia@inumedia.net> (http://inumedia.net/)",
+  "homepage": "http://yayramen.github.com/hashtag-amy",
+  "name": "hashtag-amy",
+  "description": "A turntable.fm bot",
+  "keywords": ["turntable.fm", "turntable", "bot"],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yayramen/hashtag-amy.git"
+  },
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+     "ttapi": "1.4.x",
+     "underscore": "1.3.x",
+     "mongoskin": "0.3.x",
+     "twit": "1.x.x",
+     "mysql": "2.0.0-alpha7"
+    },
+  "devDependencies": {}
+}
