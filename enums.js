@@ -162,5 +162,7 @@ global.DJImages = {
    "4f3564cca3f7517206007112" : {img: "http://i.imgur.com/zEwMURP.gif"},//Zupps
    "4e4d3f084fe7d02a3217fa37" : {img: "http://i.imgur.com/GCJrZmF.jpg"},//Boone
    "4eca7df9a3f751459f000b35" : {img: "http://i.imgur.com/1bGHT8i.jpg"},//smarty
-   "4e3aaee54fe7d05c3204719a" : {img: "http://i.imgur.com/9c5zqgr.jpg"}//raychie
+   "4e3aaee54fe7d05c3204719a" : {img: "http://i.imgur.com/9c5zqgr.jpg"},//raychie
+   "51532906aaa5cd22681c136e" : {img: "http://i.imgur.com/Vzt2RRe.jpg"},//metalneck
+   "4e5654caa3f75149d9022775" : {img: "http://i.imgur.com/I26jKhq.jpg"}//hellojilli
 }

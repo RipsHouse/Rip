@@ -67,6 +67,18 @@ global.mBanList = [
   userid: '51c1d975eb35c13c44791810',
   banned: true
 },
+{ //[CL] dawgsfan2
+  userid: '514cd449aaa5cd5470e19ff3',
+  banned: true
+},
+{
+  userid: '51b925d7aaa5cd0352efef75',
+  banned: true
+},
+{
+  userid: '51ddf13faaa5cd201c67b777',
+  banned: true
+},
 { //jaydubs
   userid: '4e4d05b1a3f7510459174bc5',
   banned: false
