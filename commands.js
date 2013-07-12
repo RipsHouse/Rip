@@ -918,7 +918,8 @@ global.mCommands = [
                "shrug": ["http://i.imgur.com/2fLh8GC.gif", "http://i.imgur.com/OtwsFOy.gif", "http://i.imgur.com/ZIbK22X.gif"],
                "slap": ["http://i.imgur.com/cXMtsOU.gif", "http://i.imgur.com/iQBhix2.gif"],
 	             "besties": ["http://25.media.tumblr.com/tumblr_lydc960FH01qahroko1_250.gif"],
-               "moobs": ["http://i.imgur.com/bAx1t8q.gif"]
+               "moobs": ["http://i.imgur.com/bAx1t8q.gif"],
+               "srs": ["http://i.imgur.com/4UrmaA7.gif"]
             },
     callback: function (pUser, pText) {
           if(pText == "options")
