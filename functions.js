@@ -480,7 +480,11 @@ global.Greet = function (pUsers) {
     if(sSuperUserGreetings.length > 0) Speak(sSuperUserGreetings, mSuperGreeting, SpeakingLevel.Greeting);
     if(sModeratorGreetings.length > 0) Speak(sModeratorGreetings, mModeratorGreeting, SpeakingLevel.Greeting);
     if(sVIPGreetings.length > 0) Speak(sVIPGreetings, mVIPGreeting, SpeakingLevel.Greeting);
-    if(sDefaultGreetings.length > 0) Speak(sDefaultGreetings, mDefaultGreeting, SpeakingLevel.Greeting);
+    if(sDefaultGreetings.length > 0)
+    {
+      Speak(sDefaultGreetings, "http://img.pandawhale.com/56199-Doctor-Who-9-hello-gif-ydYK.gif", SpeakingLevel.Greeting);
+      Speak(sDefaultGreetings, mDefaultGreeting, SpeakingLevel.Greeting);
+    }
 };
 
 global.CheckAutoBan = function (pUser, pText) {
