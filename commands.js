@@ -609,7 +609,11 @@ global.mCommands = [
 {
     command: 'stagedive',
     message: [
-        "{username} is surfing the crowd!", 
+        "http://qn5.com/pics/anims/fm_stagedive.gif",
+        "http://humorousfunnyjokes.com/wp-content/uploads/miguel-epic-stage-dive-fail.gif",
+        "http://fc08.deviantart.net/fs71/f/2011/151/7/f/frank_iero_stage_dive_gif_by_ijaeli-d3hp2k9.gif",
+        "http://fumaga.com/i/stage-dive-fail-animated.gif"
+        /*"{username} is surfing the crowd!", 
         "Oops! {username} lost a shoe sufing the crowd.", 
         "Wooo! {username}'s surfin' the crowd! Now to figure out where the wheelchair came from...", 
         "Well, {username} is surfing the crowd, but where did they get a raft...", 
@@ -617,7 +621,7 @@ global.mCommands = [
         "{username} tried to jump off the stage, but kicked their laptop. Ouch.", 
         "{username} said they were going to do a stagedive, but they just walked off.", 
         "And {username} is surfing the crowd! But why are they shirtless?", 
-        "{username} just traumatized us all by squashing that poor kid up front."
+        "{username} just traumatized us all by squashing that poor kid up front."*/
     ],
     callback: function (pUser, pText) {
         if(mDJs.indexOf(pUser.userid) == -1) return;
