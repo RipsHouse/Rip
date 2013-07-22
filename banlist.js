@@ -79,6 +79,10 @@ global.mBanList = [
   userid: '51ddf13faaa5cd201c67b777',
   banned: true
 },
+{
+  userid: '515f4fdeeb35c110a9742cd2',
+  banned: true
+},
 { //jaydubs
   userid: '4e4d05b1a3f7510459174bc5',
   banned: false
