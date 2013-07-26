@@ -467,8 +467,9 @@ global.Greet = function (pUsers) {
     var sVIPGreetings = [];
     var sSuperUserGreetings = [];
     var sModeratorGreetings = [];
+    var pUser;
     for(var i = 0; i < pUsers.length; ++i) {
-        var pUser = pUsers[i];
+        pUser = pUsers[i];
         if(pUser.customGreeting) {
             sGreeting = pUser.customGreeting;
             Speak(pUser, sGreeting, SpeakingLevel.Greeting);
@@ -482,7 +483,15 @@ global.Greet = function (pUsers) {
     if(sVIPGreetings.length > 0) Speak(sVIPGreetings, mVIPGreeting, SpeakingLevel.Greeting);
     if(sDefaultGreetings.length > 0)
     {
-      Speak(sDefaultGreetings, "http://img.pandawhale.com/56199-Doctor-Who-9-hello-gif-ydYK.gif", SpeakingLevel.Greeting);
+      //Speak(sDefaultGreetings, "http://img.pandawhale.com/56199-Doctor-Who-9-hello-gif-ydYK.gif", SpeakingLevel.Greeting);
+      try
+      {
+        HandleCommand(pUser, '/react hello' ,false);
+      }
+      catch(hcErr)
+      {
+        Log(hcErr);
+      }
       Speak(sDefaultGreetings, mDefaultGreeting, SpeakingLevel.Greeting);
     }
 };

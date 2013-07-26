@@ -862,11 +862,11 @@ global.mCommands = [
                "thug": ["http://i.imgur.com/KL4yO.gif", "http://i.imgur.com/idIwK.gif"],
                "no": ["http://i.imgur.com/cM7u6Cx.gif", "http://i.imgur.com/rxLGzil.gif", "http://i.imgur.com/swtvgfm.gif", "http://i.imgur.com/08g9i26.gif","http://i.imgur.com/fGUF3lG.gif", "http://media.tumblr.com/tumblr_m9r8fetJjc1rvttv9.gif", "http://i.imgur.com/TWMPwwc.gif", "http://i.imgur.com/nD6k8xv.gif", "http://i.imgur.com/oPA7eYP.gif", "http://media.tumblr.com/3d04008d4b05a421d877b0852e5b0a0a/tumblr_inline_mk90bbZ1ss1qz4rgp.gif", "http://i.imgur.com/gv7kRft.gif", "http://i.imgflip.com/vvix.gif"],
                "hellno": ["http://i.imgur.com/zLP1yIe.gif"],
-               "yes": ["http://i.imgur.com/NPDSB0Q.gif", "http://i.imgur.com/9izVo0I.gif", "http://i.imgur.com/9ZVrQFE.gif", "http://i.imgur.com/FcvZiru.gif", "http://i.imgur.com/WHuTCuf.gif?1", "http://i.imgur.com/UzwKBUu.gif", "http://i.imgur.com/7Pn4Llc.gif", "http://i.imgur.com/pZaOrFt.gif", "http://i.imgur.com/InigN.gif", "http://i.imgur.com/FcvZiru.gif", "http://i.imgur.com/K4O3lj0.jpg"],
+               "yes": ["http://i.imgur.com/NPDSB0Q.gif", "http://i.imgur.com/9izVo0I.gif", "http://i.imgur.com/9ZVrQFE.gif", "http://i.imgur.com/FcvZiru.gif", "http://i.imgur.com/WHuTCuf.gif", "http://i.imgur.com/UzwKBUu.gif", "http://i.imgur.com/7Pn4Llc.gif", "http://i.imgur.com/pZaOrFt.gif", "http://i.imgur.com/InigN.gif", "http://i.imgur.com/FcvZiru.gif", "http://i.imgur.com/K4O3lj0.jpg"],
                "gob": ["http://24.media.tumblr.com/tumblr_m0p1yz9SsC1qf0kb5o2_250.gif", "http://gifsoup.com/webroot/animatedgifs/335898_o.gif", "http://betyoucantmakethat.files.wordpress.com/2011/10/ad-animated-gif-arrested-developmen.gif"],
                "random": ["http://www.refinedguy.com/wp-content/uploads/2012/09/3-funny-sports-pictures-wrestling-is-a-serious-legitimate-sport.gif", "http://gifs.gifbin.com/g65099386.gif"],
 			         "excited":["http://www.reactiongifs.com/wp-content/uploads/2012/12/Al-bundy-ed-oneill-animated-gif-2.gif","http://www.reactiongifs.com/wp-content/uploads/2013/01/happy-twins.gif", "http://i.imgur.com/wlX2s.gif", "http://i.imgur.com/18f7bdG.gif", "http://i.minus.com/i95Y2hejoCrKN.gif", "http://i.imgur.com/X4JcVPp.gif", "http://www.refinedguy.com/wp-content/uploads/2012/09/4-excited-nets-basketball-fan.gif", "http://i.imgur.com/boUsk.gif"],
-			         "fyeah":["http://i.imgur.com/JOmnF.gif", "http://i.imgur.com/OhZOjR8.gif", "http://www.refinedguy.com/wp-content/uploads/2012/09/excited-sports-fan.gif", "http://i.imgur.com/e6HsKIc.gif?1"],
+			         "fyeah":["http://i.imgur.com/JOmnF.gif", "http://i.imgur.com/OhZOjR8.gif", "http://www.refinedguy.com/wp-content/uploads/2012/09/excited-sports-fan.gif", "http://i.imgur.com/e6HsKIc.gif"],
                "SOAD": ["http://i.imgur.com/fy57mrK.gif", "http://cdn3.sbnation.com/imported_assets/817019/OMFG.gif", "http://i.imgur.com/4JCINXy.gif", "http://www.totalprosports.com/wp-content/uploads/2012/10/will-muschamp-pissed-off-gif.gif", "http://cdn2.mocksession.com/wp-content/uploads/2013/01/MIKE-SMITH-STICK-ABUSE.gif", "http://i.imgur.com/QffmtXk.gif"],
                "celebrate": ["http://i.imgur.com/37WT4dK.gif", "http://i.imgur.com/D9ILaxr.gif", "http://i.imgur.com/oqh5nC0.gif", "http://i.imgur.com/DTUvG.gif", "http://24.media.tumblr.com/tumblr_m8nid7ImjS1r2oa9ko1_500.gif", "http://i.imgur.com/DML290E.gif"],
                "mindblown": ["http://media.tumblr.com/tumblr_m4ptp671l11r1axrq.gif", "http://i.imgur.com/sBIhb.gif"],
@@ -924,7 +924,9 @@ global.mCommands = [
 	             "besties": ["http://25.media.tumblr.com/tumblr_lydc960FH01qahroko1_250.gif"],
                "moobs": ["http://i.imgur.com/bAx1t8q.gif"],
                "srs": ["http://i.imgur.com/4UrmaA7.gif"],
-               "jazzhands": ["http://blog.vh1.com/files//2010/03/cfc7_7_gif2.gif", "http://25.media.tumblr.com/873d3df9efd69f691f729885e80a17f7/tumblr_mgfk42E5UJ1rnp15wo1_500.gif"]
+               "jazzhands": ["http://blog.vh1.com/files//2010/03/cfc7_7_gif2.gif", "http://25.media.tumblr.com/873d3df9efd69f691f729885e80a17f7/tumblr_mgfk42E5UJ1rnp15wo1_500.gif"],
+               "hello": ["http://25.media.tumblr.com/15149c18be680e99488a339f558f0a6c/tumblr_mlxctlvONq1r24cu4o1_500.gif", "http://img.pandawhale.com/56199-Doctor-Who-9-hello-gif-ydYK.gif", "http://25.media.tumblr.com/tumblr_lx6tvdmTut1r9x0sdo1_250.gif", "http://24.media.tumblr.com/tumblr_lmujte6CDa1qb3ykio1_500.gif"],
+               "fail": ["http://i.imgur.com/Q1kNrEP.gif", "http://i.minus.com/iEMuBCXWfaMqO.gif"]
             },
     callback: function (pUser, pText) {
           if(pText == "options")

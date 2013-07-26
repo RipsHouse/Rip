@@ -172,9 +172,18 @@ global.mArtists = [
         }
 },
 {
+        artist: 'Reggie And The Full Effect',
+        callback: function(pUser, pCurrentSong){
+                if('Boot To The Moon' == pCurrentSong.song)
+                {
+                  HandleCommand(pUser, '/react jazzhands' ,false);
+                }
+        }
+},
+{
 	artist: 'Rick Astley',
 	callback: function(pUser, pCurrentSong){
-                FindByName('Rip Hamershorts', function (sUser)
+                FindByName('Rip Hammershorts', function (sUser)
                                   {
                                     if(sUser.length > 0) {
                                       sUser = sUser[0];
