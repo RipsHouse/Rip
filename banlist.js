@@ -91,7 +91,23 @@ global.mBanList = [
   userid: '518da80deb35c1467e254d35',
   banned: true
 },
-{ //jaydubs
-  userid: '4e4d05b1a3f7510459174bc5',
-  banned: false
+{//Dj Ratchet Zebra
+  userid: '5201457eaaa5cd53fd2e1167',
+  banned: true
+},
+{//Legitly Repile
+  userid: '51fed8baeb35c104d016eca9',
+  banned: true
+},
+{//Fuck The System420
+  userid: '509beff4eb35c16979d0ac76',
+  banned: true
+},
+{//tonihandsomebaloni
+  userid: '519a94c9eb35c1500dfa33d3',
+  banned: true
+},
+{ //OG funky lol
+  userid: '5214f4aaaaa5cd3791a59da1',
+  banned: true
 }];
