@@ -919,9 +919,9 @@ global.mCommands = [
                "topgun": ["http://stream1.gifsoup.com/view3/1750401/top-gun-o.gif", "http://media.heavy.com/media/2013/02/top-gun_o_GIFSoup.com_.gif"],
                "eyeroll": ["http://i.imgur.com/cHr8404.gif", "http://i.imgur.com/BYuURo9.gif", "http://25.media.tumblr.com/730fbd6277f8d8f756200f2e9e832f89/tumblr_mjo3cfDWZZ1qcvkpto2_250.gif", "http://i.imgur.com/SKBQKbg.gif"],
                "whoa": ["http://stream1.gifsoup.com/view5/3964674/whoa-o.gif", "http://i.imgur.com/q7aC81y.gif", "http://stream1.gifsoup.com/view4/1252664/whoa-o.gif"],
-               "awwyeah": ["http://i.imgur.com/If2YeXZ.gif", "http://media.tumblr.com/tumblr_m9y2wqxADo1qcpvlr.gif"],
+               "awwyeah": ["http://i.imgur.com/If2YeXZ.gif"],
                "facepalm": ["http://i.imgur.com/gYgBktE.gif", "http://i.imgur.com/X23mytA.gif", "http://24.media.tumblr.com/tumblr_m6pid35QyH1rqfhi2o1_400.gif", "http://i.imgur.com/nDPJW.gif"],
-               "highfive": ["http://i.imgur.com/QIR2ECm.gif", "http://25.media.tumblr.com/tumblr_m7k7akJvex1rwcc6bo1_500.gif", "http://media.tumblr.com/tumblr_m96ohz4Drz1rrmo7v.gif"],
+               "highfive": ["http://i.imgur.com/QIR2ECm.gif", "http://cdn.uproxx.com/wp-content/uploads/2013/01/lemon-selffive.gif", "http://25.media.tumblr.com/tumblr_m7k7akJvex1rwcc6bo1_500.gif", "http://media.tumblr.com/tumblr_m96ohz4Drz1rrmo7v.gif"],
                "seeya": ["http://i.imgur.com/6eKvOJQ.gif", "http://i.imgur.com/ygVKO.gif", "http://i.imgur.com/ULk8d.gif", "http://24.media.tumblr.com/135a1cde345a2c1a90c353ab122943bd/tumblr_mh5f51bJXq1r3ty02o1_500.gif"],
                "fixit": ["http://i.imgur.com/K2ETy.gif", "http://i.imgur.com/oMBasdV.gif"],
                "badcall": ["http://i.imgur.com/O3PbK.gif"],
@@ -930,7 +930,7 @@ global.mCommands = [
                "chill": ["http://i.minus.com/itXjZFNxW68ta.gif"],
                "gottime": ["http://i.imgur.com/CfNS0uY.gif"],
                "smarty": ["http://i.imgur.com/afsjhmO.gif"],
-               "myjam": ["http://i.imgur.com/DShdrkA.gif", "http://i.imgur.com/UjQBAb3.gif", "http://i.imgur.com/V64zd.gif", "http://i.minus.com/iwFvONTqM1lW1.gif", "http://mrwgifs.com/wp-content/uploads/2013/04/Thats-So-Raven-Thats-My-Jam-Gif.gif"],
+               "myjam": ["http://i.imgur.com/DShdrkA.gif", "http://i.imgur.com/ZKnoyZC.gif", "http://i.imgur.com/UjQBAb3.gif", "http://i.imgur.com/V64zd.gif", "http://i.minus.com/iwFvONTqM1lW1.gif", "http://mrwgifs.com/wp-content/uploads/2013/04/Thats-So-Raven-Thats-My-Jam-Gif.gif"],
                "shocked": ["http://i.imgur.com/tgp8gnO.gif", "http://www.reactiongifs.com/wp-content/gallery/wtf/what-Alison-Brie-.gif", "http://i.imgur.com/oGdHwNa.gif", "http://i.imgur.com/sAg6KVS.gif", "http://i.imgur.com/2qSjrW3.gif", "http://i.imgur.com/7mjH4Ns.gif", "http://i.imgur.com/6ogeF96.gif", "http://bkhemphill.files.wordpress.com/2013/01/tumblr_mglimdbcdo1qiavcao1_500.gif", "http://images.wikia.com/smuff/images/b/b1/I_don%27t_know_what_I_expected.gif"],
                "micdrop": ["http://i.imgur.com/ih9LX4I.gif"],
                "false": ["http://i.imgur.com/v6k7yWj.gif", "http://i.imgur.com/KgHzzou.jpg", "http://i.imgur.com/UuffUTi.gif", "http://i.imgur.com/bfbPJ.gif"],
@@ -950,7 +950,7 @@ global.mCommands = [
                "walkout": ["http://i.imgur.com/URskme9.gif"],
                "nailedit": ["http://24.media.tumblr.com/tumblr_ltyxleXdPN1qi3lo9o1_250.gif"],
                "tableflip": ["http://media.tumblr.com/tumblr_lrsnzdBKye1qafrh6.gif", "http://stream1.gifsoup.com/view3/2971540/john-goodman-table-flip-o.gif", "http://media.tumblr.com/tumblr_m1bq3jJAk51qk7vwoo1_250.gif", "http://1.bp.blogspot.com/-Izeif0lNg9E/UQeyjVT4HoI/AAAAAAAAIUg/COJB8JvQftg/s1600/table-flip.gif", "http://media.tumblr.com/tumblr_m0uqoxTlt51qjrxbg.gif", "http://stream1.gifsoup.com/view3/1546001/table-flip-andy-samberg-o.gif"],
-               "droppants": ["http://www.reactiongifs.com/wp-content/uploads/2013/02/oops-pants-off.gif"],
+               "droppants": ["http://www.reactiongifs.com/wp-content/uploads/2013/02/oops-pants-off.gif", "http://i.imgur.com/BKImQ4G.gif"],
                "humpday": ["http://i.imgur.com/tA5sRGw.gif"],
                "facemelt": ["http://www.threadbombing.com/data/media/2/face_melt.gif", "http://www.newyorker.com/online/blogs/photobooth/Gif-1.gif", "http://24.media.tumblr.com/538e66e14b6cdd10075e3999a8cbed50/tumblr_mlo5pgOKlR1sonquko1_500.gif"],
                "fbomb": ["http://d24w6bsrhbeh9d.cloudfront.net/photo/aRQQNn5_460sa.gif"],
@@ -988,7 +988,14 @@ global.mCommands = [
               }
             }
             
+            try
+            {
+              pUser.PM(options, SpeakingLevel.Misc);
+            }
+            catch(err)
+            {
             mBot.speak(options)
+            }
               
           }
           if(this.reactions[pText])
