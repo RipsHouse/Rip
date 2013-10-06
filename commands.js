@@ -82,6 +82,26 @@ global.mCommands = [
   pm: true
 },
 {
+    command: 'lmgtfy',
+    message: 'http://www.lmgtfy.com/?q=',
+    callback: function (pUser, pText) {
+        try
+        {
+          mBot.speak(this.message + pText.replace(" ","%20"));
+        }
+        catch(err)
+        {
+          Log(err);
+        }
+        
+    },
+    requires: Requires.User,
+    hint: "Let me Google that for you.",
+    hidden: false,
+    bare: true,
+    pm: true
+},
+{
     command: 'liljon',
     message: [
         'AWWW SKEET SKEET SKEET Mother...',
