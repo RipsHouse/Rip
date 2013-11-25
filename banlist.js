@@ -110,4 +110,17 @@ global.mBanList = [
 { //OG funky lol
   userid: '5214f4aaaaa5cd3791a59da1',
   banned: true
-}];
+},
+{ //TheKeshaHater3000
+  userid: '5142a6fbaaa5cd27fab3aa47',
+  banned: true
+},
+{//sonOFtheReaper
+  userid: '507237acaaa5cd362000008f',
+  banned: true
+},
+{//AND THENING
+  userid: '5228e9f4aaa5cd75fc67f825',
+  banned: true
+}
+];
