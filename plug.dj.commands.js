@@ -124,12 +124,8 @@ var mCommands = [
           }
     },
     bare: true
-];
+}];
 var mBareCommands = mCommands.filter(function(e){ return e.bare == true; });
-
-API.on(API.CHAT, function(data) {
-  handleCommand(API.getUser(data.fromID), data.message)
-});
 
 handleCommand = function (pUser, pText) {
     if(pUser.id != API.getUser().id) return;
@@ -153,3 +149,7 @@ handleCommand = function (pUser, pText) {
 mRandomItem = function (list) {
       return list[Math.floor(Math.random() * list.length)];
 };
+
+API.on(API.CHAT, function(data) {
+  handleCommand(API.getUser(data.fromID), data.message)
+});
