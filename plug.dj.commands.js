@@ -140,9 +140,7 @@ handleCommand = function (pUser, pText) {
         return(pCommand.command && pCommand.command == sCommand) || (typeof (pCommand.command) == "object" && pCommand.command.length && pCommand.command.indexOf(sCommand) != -1);
     });
     sCommands.forEach(function (pCommand) {
-        if(pCommand.requires.check(pUser)) {
             pCommand.callback(pUser, pText);
-        }
     });
 };
 
