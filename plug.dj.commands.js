@@ -1,4 +1,5 @@
 var commandPattern = new RegExp("^!");
+var bootmeaftersong = false;
 var mCommands = [
 {
     command: 'react',
@@ -124,6 +125,13 @@ var mCommands = [
           }
     },
     bare: true
+},
+{
+    command: 'bootaftersong',
+    callback: function(pUser, pText) {
+        bootmeaftersong = true;
+    },
+    bare: true
 }];
 var mBareCommands = mCommands.filter(function(e){ return e.bare == true; });
 
@@ -150,4 +158,12 @@ mRandomItem = function (list) {
 
 API.on(API.CHAT, function(data) {
   handleCommand(API.getUser(data.fromID), data.message)
+});
+
+API.on(API.DJ_ADVANCE, function(data) {
+  if(bootmeaftersong && data.lastPlay.dj.id == API.getUser().id)
+  {
+    API.djLeave();
+    bootmeaftersong = false;
+  }
 });
