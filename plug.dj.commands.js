@@ -157,10 +157,10 @@ mRandomItem = function (list) {
 };
 
 API.on(API.CHAT, function(data) {
-  handleCommand(API.getUser(data.fromID), data.message)
+  handleCommand(API.getUser(data.uid), data.message)
 });
 
-API.on(API.DJ_ADVANCE, function(data) {
+API.on(API.ADVANCE, function(data) {
   if(bootmeaftersong && data.lastPlay.dj.id == API.getUser().id)
   {
     API.djLeave();
