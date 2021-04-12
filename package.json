@@ -10,7 +10,7 @@
     "url": "git://github.com/yayramen/hashtag-amy.git"
   },
   "engines": {
-    "node": "0.6.x"
+    "node": "1.0.x"
   },
   "dependencies": {
      "ttapi": "1.4.x",
