@@ -155,16 +155,14 @@ global.Requires = {
 }
 
 global.DJImages = {
-   "4e4d05b1a3f7510459174bc5" : {img : "http://i.imgur.com/WImHut6.jpg"},//jaydubs
-   "4e225d714fe7d01dbc00ae50" : {img: "http://i.imgur.com/htHYquS.jpg"},//Nibbs
+   "6070cc8a47c69b001b3a0495" : {img : "http://i.imgur.com/WImHut6.jpg"},//jaydubs
+   "60745c6147c69b001b3a23a4" : {img: "http://i.imgur.com/htHYquS.jpg"},//Nibbs
    "4e0ce113a3f751466f1591ad" : {img: "http://i.imgur.com/17yFUr3.jpg"},//Blades
    "4e0de3ffa3f7517dbd0115ce" : {img: "http://i.imgur.com/8CRaEyj.png"},//Geek
    "4f3564cca3f7517206007112" : {img: "http://i.imgur.com/zEwMURP.gif"},//Zupps
-   "4e4d3f084fe7d02a3217fa37" : {img: "http://i.imgur.com/GCJrZmF.jpg"},//Boone
    "4eca7df9a3f751459f000b35" : {img: "http://i.imgur.com/1bGHT8i.jpg"},//smarty
-   "4e3aaee54fe7d05c3204719a" : {img: "http://i.imgur.com/9c5zqgr.jpg"},//raychie
-   "51532906aaa5cd22681c136e" : {img: "http://i.imgur.com/Vzt2RRe.jpg"},//metalneck
+   "607238ef47c69b001b3a1320" : {img: "http://i.imgur.com/9c5zqgr.jpg"},//raychie
+   "6071ce3e47c69b001b3a0e5f" : {img: "http://i.imgur.com/Vzt2RRe.jpg"},//metalneck
    "4e5654caa3f75149d9022775" : {img: "http://i.imgur.com/I26jKhq.jpg"},//hellojilli
-   "505c8ae2eb35c11f45000353" : {img: "http://i.imgur.com/vTDCEQV.jpg"},//r3y1a1n
-   "50096e77eb35c10ef7000098" : {img: "http://i.imgur.com/LWJjzY2.png"}//chicohernando
+   "6070c52d47b5e3001b33db4c" : {img: "http://i.imgur.com/LWJjzY2.png"}//chicohernando
 }
