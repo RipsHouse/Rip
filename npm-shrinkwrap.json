@@ -1,40 +1,77 @@
 {
   "name": "hashtag-amy",
   "version": "0.0.1",
+  "lockfileVersion": 1,
+  "requires": true,
   "dependencies": {
-    "ttapi": {
-      "version": "1.4.2"
-    },
-    "underscore": {
-      "version": "1.3.3"
-    },
     "mongoskin": {
       "version": "0.3.6",
+      "resolved": "https://registry.npmjs.org/mongoskin/-/mongoskin-0.3.6.tgz",
+      "integrity": "sha1-VMYFKn4pr1a29k1PInoSiM/FGqk=",
+      "requires": {
+        "mongodb": "1.0.x"
+      },
       "dependencies": {
         "mongodb": {
           "version": "1.0.2",
+          "resolved": "https://registry.npmjs.org/mongodb/-/mongodb-1.0.2.tgz",
+          "integrity": "sha1-CR3qxjq9K1oe/BA9Wz154Zk6bIU=",
+          "requires": {
+            "bson": "0.0.6"
+          },
           "dependencies": {
             "bson": {
-              "version": "0.0.6"
+              "version": "0.0.6",
+              "resolved": "https://registry.npmjs.org/bson/-/bson-0.0.6.tgz",
+              "integrity": "sha1-JQOeeJorgT3Jk70+bDGj3jHQgSA="
             }
           }
         }
       }
     },
-    "twit": {
-      "version": "1.x.x",
+    "mysql": {
+      "version": "2.0.0-alpha7",
+      "resolved": "https://registry.npmjs.org/mysql/-/mysql-2.0.0-alpha7.tgz",
+      "integrity": "sha1-bTpnLFI2jxygY+Mp5jcmK61OMp4=",
+      "requires": {
+        "bignumber.js": "1.0.1",
+        "require-all": "0.0.3"
+      },
       "dependencies": {
-        "oauth": {
-          "version": "0.9.x"
+        "bignumber.js": {
+          "version": "1.0.1",
+          "resolved": "https://registry.npmjs.org/bignumber.js/-/bignumber.js-1.0.1.tgz",
+          "integrity": "sha1-DpU4loI7eD1I6pIYhNP9kLib3LE="
         }
       }
     },
-    "mysql": {
-      "version": "2.0.0-alpha7",
-      "dependencies": {
-        "require-all" : { "version": "0.0.6" },
-        "bignumber.js": { "version": "1.0.1" }
+    "oauth": {
+      "version": "0.9.9",
+      "resolved": "https://registry.npmjs.org/oauth/-/oauth-0.9.9.tgz",
+      "integrity": "sha1-7/EAAWHbZBrgyCbZl4mV83xG6Gk="
+    },
+    "require-all": {
+      "version": "0.0.3",
+      "resolved": "https://registry.npmjs.org/require-all/-/require-all-0.0.3.tgz",
+      "integrity": "sha1-BR4ZIkbADTmb/mFkvE6BC8WI4Bo="
+    },
+    "ttapi": {
+      "version": "1.4.2",
+      "resolved": "https://registry.npmjs.org/ttapi/-/ttapi-1.4.2.tgz",
+      "integrity": "sha1-y1n+I2KzPSBf7y1QBXuW4HrNjpQ="
+    },
+    "twit": {
+      "version": "1.1.20",
+      "resolved": "https://registry.npmjs.org/twit/-/twit-1.1.20.tgz",
+      "integrity": "sha1-Fw5n0Bh5hILK8pmN1Mb48py1SGE=",
+      "requires": {
+        "oauth": "0.9.9"
       }
+    },
+    "underscore": {
+      "version": "1.12.1",
+      "resolved": "https://registry.npmjs.org/underscore/-/underscore-1.12.1.tgz",
+      "integrity": "sha512-hEQt0+ZLDVUMhebKxL4x1BTtDY7bavVofhZ9KZ4aI26X9SRaE+Y3m83XUL1UP2jn8ynjndwCCpEHdUG+9pP1Tw=="
     }
   }
 }
